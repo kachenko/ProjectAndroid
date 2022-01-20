@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Project0</string>
+    <string name="enter_text_revert">Enter text to revert</string>
+    <string name="first_arg">First argument</string>
+    <string name="second_arg">Second argument</string>
+</resources>
